@@ -20,10 +20,10 @@ app.get('/',(req, res) => {
 
 //connection to mysql database  เชื่อมกับข้อมูล
 let dbCon = mysql.createConnection({
-    host: 't2j.h.filess.io',
-    user: 'Plugzaeiei_broadrocky',
-    password: 'e8b54dd1124ae127e07bd6bed0e423486283c94f',
-    database: 'Plugzaeiei_broadrocky',
+    host: 'lvq.h.filess.io',
+    user: 'temidb_eventdrawn',
+    password: 'f3812bb929e9770e29ba1c4eaaaaad708712efdd',
+    database: 'temidb_eventdrawn',
     port: '3307'
 })
 
