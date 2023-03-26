@@ -1,6 +1,6 @@
 {
-    "verion": 2,
-    "buils":[
+    "version": 2,
+    "builds":[
         {
             "src" : "index.js",
             "use" : "@now/node"
